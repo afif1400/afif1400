@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱 I’m currently learning MERN stack development
 
 <!--
 **afif1400/afif1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
