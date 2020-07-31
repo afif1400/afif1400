@@ -1,5 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore currently developing my skills in
+Javascript Nodejs Reactjs and Full stack development
 
 # Skills
 ![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
