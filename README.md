@@ -3,9 +3,9 @@
 I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
 # Skills
-![](https://img.shields.io/badge/C-Programming-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/ython-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/ReactJs-informational?style=for-the-badge&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
