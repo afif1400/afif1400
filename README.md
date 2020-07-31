@@ -2,10 +2,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 # Skills
-![](https://img.shields.io/badge/skill-reactjs-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
+# 📫 How to reach me: ...
 
 
 
