@@ -19,7 +19,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 # 📫 How to reach me: ...
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter]http://i.imgur.com/wWzX9uB.png][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
