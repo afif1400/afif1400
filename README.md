@@ -3,9 +3,9 @@
 I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
 # Skills
-![](https://img.shields.io/badge/NodeJs-informational?style=flat-square&logo=npm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactJs-informational?style=flat-square&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactJs-informational?style=for-the-badge&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 
 # 📫 How to reach me: ...
 
