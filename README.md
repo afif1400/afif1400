@@ -3,7 +3,7 @@
 
 # Skills
 ![](https://img.shields.io/badge/skill-reactjs-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
