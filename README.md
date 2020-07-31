@@ -5,7 +5,10 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 # Skills
 ![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/ReactJs-informational?style=for-the-badge&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092E20)
+
 
 # 📫 How to reach me: ...
 
