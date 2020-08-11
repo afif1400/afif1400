@@ -16,7 +16,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 
 
-- 📫 How to reach me: ...
+<!-- 📫 How to reach me: ... -->
 
 
 
