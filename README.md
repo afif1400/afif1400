@@ -8,7 +8,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 <!-- - 🤔 I’m looking for help with .. -->
 - 🥅 2020 goals: learn android app development
 
-# Connect with me:
+### Connect with me:
 
 [<img align="left" alt="afif1400.github.io" width="24px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
 
