@@ -8,7 +8,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 <!-- - 🤔 I’m looking for help with .. -->
 - 🥅 2020 goals: learn android app development
 
-[gittix] = https://github.com/gittix
+[gittix] : https://github.com/gittix
 
 <!--
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
