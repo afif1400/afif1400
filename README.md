@@ -18,6 +18,18 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 [<img align="left" alt="afif | LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="afif | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
+### Skills
+
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logo=c&logoColor=black&color=A8B9CC)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/ReactJs-informational?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)
+![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Php-informational?style=for-the-badge&logo=php&logoColor=white&color=A8B9CC)
+
 [gittix]: https://github.com/afif1400/gittix
 [website]: https://afif1400.github.io
 [course]: http://vsCodeHero.com
