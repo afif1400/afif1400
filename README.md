@@ -1,4 +1,16 @@
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
+
+- 🔭 I’m currently working on a microserviced application [gittix]
+- 🌱 I’m currently learning devops
+- 👯 I’m looking to collaborate on some webddev projects
+<!-- - 🤔 I’m looking for help with .. -->
+- 🥅 2020 goals: learn android app development
+
+[gittix] = https://github.com/gittix
+
+<!--
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
@@ -12,15 +24,9 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 ![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Php-informational?style=for-the-badge&logo=php&logoColor=white&color=A8B9CC)
-
-
-
+ -->
 
 <!-- 📫 How to reach me: ... -->
-
-
-
-
 
 <!--
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
