@@ -35,7 +35,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://afif1400.vercel.app/api/spotify)](https://open.spotify.com/user/afifahmed)
+[![Spotify](https://novatorem-omega-liart.vercel.app/api/spotify)](https://open.spotify.com/user/afifahmed)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
