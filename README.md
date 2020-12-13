@@ -18,7 +18,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 [<img align="left" alt="afif | LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="afif | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
-### Skills
+### Skills:
 
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
