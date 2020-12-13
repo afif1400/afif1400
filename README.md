@@ -36,7 +36,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="afif's GitHub Stats" src="https://github-readme-stats.afif1400.vercel.app/api?username=afif1400&show_icons=true&hide_border=true" />
+  <img align="left" alt="afif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afif1400&show_icons=true&hide_border=true" />
 
 </details>
 [gittix]: https://github.com/afif1400/gittix
