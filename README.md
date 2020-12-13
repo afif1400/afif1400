@@ -1,6 +1,6 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
+I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
 - 🔭 I’m currently working on a microserviced application [gittix]
 - 🌱 I’m currently learning devops
