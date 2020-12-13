@@ -2,13 +2,13 @@
 
 I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
-- 🔭 I’m currently working on a microserviced application [gittix]
+- 🔭 I’m currently working on a [microserviced application][gittix]
 - 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on some webddev projects
 <!-- - 🤔 I’m looking for help with .. -->
 - 🥅 2020 goals: learn android app development
 
-[gittix] : https://github.com/gittix
+[gittix] : https://github.com/afif1400/gittix
 
 <!--
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
