@@ -2,10 +2,11 @@
 
 I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
 
-- 🔭 I’m currently working on a [microserviced application][gittix]
+<!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
+- 🔭 I'm currently working on a configurable lab environment using docker container
 - 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on some webddev projects
-- 🥅 2020 goals: learn android app development
+- 🥅 2020 goals: learn android app development brushup DSA skills and read books 
   <br />
 
 ### 📫 Connect with me:
