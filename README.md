@@ -22,8 +22,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 ### Skills:
 
-![](https://res.cloudinary.com/charcha/image/upload/v1622094642/javascript_jhdzux.png)
-![](https://res.cloudinary.com/charcha/image/upload/v1622094790/python_n9k9ou.png)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logoColor=white&color=007396)
@@ -39,12 +38,18 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 [![Spotify](https://novatorem-omega-liart.vercel.app/api/spotify)](https://open.spotify.com/user/afifahmed)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+### Stats and Streaks
 
-  <img align="left" alt="afif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afif1400&show_icons=true&hide_border=true&theme=prussian" />
+:zap: GitHub Stats
 
-</details>
+<img align="center" alt="afif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afif1400&show_icons=true&hide_border=true&theme=nightowl" />
+
+:zap: GitHub Streak    
+
+<img align="center" alt="afifs Github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=afif1400&theme=nightowl" />
+
+<!-- </details> -->
 
 [gittix]: https://github.com/afif1400/gittix
 [website]: https://afif1400.github.io
