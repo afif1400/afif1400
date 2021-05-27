@@ -22,6 +22,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 ### Skills:
 
+![](https://res.cloudinary.com/charcha/raw/upload/v1622094363/javascript_mwzrmy.json)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logoColor=white&color=3776AB)
