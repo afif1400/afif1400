@@ -47,7 +47,7 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 :zap: GitHub Streak    
 
-<img align="center" alt="afifs Github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=afif1400&theme=nightowl" />
+<img align="center" alt="afifs Github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=afif1400&theme=nightowl&hide_border=true" />
 
 <!-- </details> -->
 
