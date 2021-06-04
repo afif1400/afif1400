@@ -52,12 +52,12 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 <!-- </details> -->
 
 [gittix]: https://github.com/afif1400/gittix
-[website]: https://afif1400.github.io
+[website]: https://portfolio.afif.website
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/afif38734190
+[twitter]: https://twitter.com/afif1400
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/afif.41
-[linkedin]: https://linkedin.com/in/afif-ahmed-9b0432171
+[linkedin]: https://linkedin.com/in/afif-ahmed
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
