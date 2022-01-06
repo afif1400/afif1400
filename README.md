@@ -22,11 +22,12 @@ I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalor
 
 ### Skills:
 
+![](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logoColor=black&color=F7DF1E)
-![](https://img.shields.io/badge/CProgramming-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
+![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logoColor=white&color=339933)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logoColor=white&color=007396)
-![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/ReactJs-informational?style=for-the-badge&logoColor=black&color=61DAFB)
 ![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logoColor=white&color=092E20)
