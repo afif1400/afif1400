@@ -1,6 +1,7 @@
-## wassup, people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## wassup, people! 
+<!--- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 ![banner](https://res.cloudinary.com/charcha/image/upload/v1622053583/Hello_my_name_is_Matthew._Nice_to_meet_you._lveehv.png)
-I am Mohammed Afif Ahmed, a computer science student at Pes University, Bangalore;
+I am Mohammed Afif Ahmed, a computer science student from Pes University, Bangalore ans Developer Intern at Samsung.
 
 <!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
 - 🔭 I'm currently working on a social media application using aws serverless architecture and reactjs
