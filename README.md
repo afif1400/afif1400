@@ -1,13 +1,13 @@
 ## wassup, people! 
 <!--- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 ![banner](https://res.cloudinary.com/charcha/image/upload/v1622053583/Hello_my_name_is_Matthew._Nice_to_meet_you._lveehv.png)
-I am Mohammed Afif Ahmed, a computer science student from Pes University, Bangalore ans Developer Intern at Samsung.
+I am Mohammed Afif Ahmed, a software development engineer at zee5..
 
 <!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
-- 🔭 I'm currently working on a social media application using aws serverless architecture and reactjs
-- 🌱 I’m currently learning devops and serverless
-- 👯 I’m looking to collaborate on some webddev projects
-- 🥅 2020 goals: learn android app development brushup DSA skills and read books 
+- 🔭 I'm currently working on a personal project using golang, nextjs and trpc.
+- 🌱 I’m currently reading designing data intensive applications book.
+- 👯 I’m looking to collaborate on some awesome projects
+- 🥅 2024 goals: learn rust, improve DSA skills and more read books 
   <br />
 
 ### 📫 Connect with me:
