@@ -24,6 +24,7 @@ I am Mohammed Afif Ahmed, a software development engineer at zee5..
 ### Skills:
 
 ![](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge)
+![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logoColor=black&color=61DAFB)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/NodeJs-informational?style=for-the-badge&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/C-informational?style=for-the-badge&logoColor=black&color=A8B9CC)
