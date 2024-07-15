@@ -1,6 +1,5 @@
 ## wassup, people! 
 <!--- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
-![banner](https://res.cloudinary.com/charcha/image/upload/v1622053583/Hello_my_name_is_Matthew._Nice_to_meet_you._lveehv.png)
 I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 
 <!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
@@ -54,8 +53,7 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 
 <!-- </details> -->
 
-[gittix]: https://github.com/afif1400/gittix
-[website]: https://portfolio.afif.website
+[blog]: https://blog.afifahmed.site
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/afif1400
 [youtube]: https://youtube.com/codeSTACKr
@@ -65,22 +63,3 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-<!-- 📫 How to reach me: ... -->
-
-<!--
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-**afif1400/afif1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
