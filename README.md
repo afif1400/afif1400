@@ -1,5 +1,5 @@
 ## wassup, people! 
-<!--- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
 I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 
 <!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
@@ -7,15 +7,15 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 - 🌱 I’m currently reading designing data intensive applications book.
 - 👯 I’m looking to collaborate on some awesome projects
 - 🥅 2024 goals: learn rust, improve DSA skills and more read books
-- 
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="afif1400.github.io" width="24px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
+[<img align="left" alt="afif1400.github.io" width="24px" src="https://img.icons8.com/color/48/000000/blog.png" />][blog]
 [<img align="left" alt="afif | Twitter" width="24px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="afif | LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="afif | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-<br />
+
+</br>
 
 ### Skills:
 
@@ -30,7 +30,6 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 ![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Php-informational?style=for-the-badge&logoColor=white&color=A8B9CC)
-
 <br/>
 
 <!--- ### Spotify Playing 🎧
@@ -48,7 +47,7 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 
 <img align="center" alt="afifs Github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=afif1400&theme=nightowl&hide_border=true" />
 
-<!-- </details> -->
+
 
 [blog]: https://blog.afifahmed.site
 [course]: http://vsCodeHero.com
