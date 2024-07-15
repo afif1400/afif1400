@@ -6,15 +6,12 @@ I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 - 🔭 I'm currently working on a personal project using golang, nextjs and trpc.
 - 🌱 I’m currently reading designing data intensive applications book.
 - 👯 I’m looking to collaborate on some awesome projects
-- 🥅 2024 goals: learn rust, improve DSA skills and more read books 
-  <br />
+- 🥅 2024 goals: learn rust, improve DSA skills and more read books
+- 
 
 ### 📫 Connect with me:
 
 [<img align="left" alt="afif1400.github.io" width="24px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
-
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-
 [<img align="left" alt="afif | Twitter" width="24px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="afif | LinkedIn" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="afif | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
