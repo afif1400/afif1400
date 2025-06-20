@@ -3,10 +3,6 @@
 I am Mohammed Afif Ahmed, a senior software developer at Tap Health.
 
 <!-- - 🔭 I’m currently working on a [microserviced application][gittix] -->
-- 🔭 I'm currently working on a personal project using golang, nextjs and trpc.
-- 🌱 I’m currently reading designing data intensive applications book.
-- 👯 I’m looking to collaborate on some awesome projects
-- 🥅 2024 goals: learn rust, improve DSA skills and more read books
 
 ### 📫 Connect with me:
 
