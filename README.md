@@ -11,7 +11,7 @@ Building a digital health platform with 15+ microservices, AI/voice agents, and 
 | Project | Description |
 |---------|-------------|
 | **[arc](https://github.com/afif1400/arc)** | Minimal, LLM-native architecture diagram language. 670KB binary, zero deps. `Rust` |
-| **[switchboard](https://github.com/afif1400/switchboard-one)** | CLI for managing profiles, health checks, and benchmarks across AI dev tools. `TypeScript` |
+| **[switchboard](https://github.com/afif1400/switchboard)** | CLI for managing profiles, health checks, and benchmarks across AI dev tools. `TypeScript` |
 
 ---
 
