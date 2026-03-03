@@ -18,10 +18,6 @@ Building a digital health platform with 15+ microservices, AI/voice agents, and 
 `TypeScript` `Go` `Rust` `Python` `Kafka` `Kubernetes` `Terraform` `React Native` `LiveKit`
 
 ---
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=afif1400&show_icons=true&hide_border=true&theme=nightowl" />
-</p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afif1400&theme=nightowl&hide_border=true" />
 </p>
