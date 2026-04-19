@@ -1,6 +1,6 @@
 ### wassup — I'm Afif
 
-Senior Software Engineer at [Tap Health](https://taphealth.io) · [LinkedIn](https://linkedin.com/in/afif-ahmed)
+Senior Software Engineer at [Tap Health](https://tap.health) · [LinkedIn](https://linkedin.com/in/afif-ahmed)
 
 Building a digital health platform with 15+ microservices, AI/voice agents, and event-driven architecture on Kubernetes/GCP.
 
